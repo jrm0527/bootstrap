@@ -1,0 +1,48 @@
+.headings {
+  color: #ff6f61;
+  font-family: "Londrina Solid", cursive;
+}
+
+.card {
+  box-shadow: 4px 4px 2px black;
+  background-color: #a6d8d6 !important;
+}
+
+.card-title {
+  color: #ff6f61;
+  font-family: "Outfit", sans-serif;
+  font-weight: bold;
+}
+
+.card-text {
+  font-family: "Outfit", sans-serif;
+}
+
+.img-responsive {
+  width: 35%;
+  height: 100%;
+}
+
+.nav-link {
+  color: #ff6f61 !important;
+  font-size: 1.3vw;
+  font-family: "Outfit", sans-serif;
+}
+
+.nav-link:hover {
+  font-weight: bold;
+  background: lightblue;
+}
+
+.cards {
+  background-color: #a6d8d6;
+}
+
+h1 {
+  font-size: 6vw;
+}
+
+/*
+font-family: "Londrina Solid", cursive;
+font-family: "Outfit", sans-serif;
+*/
